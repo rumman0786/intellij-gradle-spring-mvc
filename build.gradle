@@ -22,7 +22,7 @@ dependencies {
 
 // Embeded Jetty for testing
 jettyRun{
-	contextPath = "spring4"
+	contextPath = ""
 	httpPort = 8080
 }
 
